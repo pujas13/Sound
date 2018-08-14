@@ -1,2 +1,3 @@
 # Sounds
-The initial repository for my web application
+The initial repository for this demo web application.
+Work in Progress...
